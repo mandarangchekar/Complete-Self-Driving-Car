@@ -2,7 +2,7 @@
 
 This project simulates a fully functional self-driving car model using Convolutional Neural Networks (CNN) and Computer Vision. The model can correctly predict turns and stops, identify traffic signs, and drive without unwanted stops and crashes.
 
-## [Link] to simulator video (https://www.linkedin.com/posts/mandar-angchekar_datadriven-deeplearning-ml-activity-6673940751577157632-1PKL?utm_source=share&utm_medium=member_desktop)
+[Link to simulator video](https://www.linkedin.com/posts/mandar-angchekar_datadriven-deeplearning-ml-activity-6673940751577157632-1PKL?utm_source=share&utm_medium=member_desktop)
 
 ## Project Overview
 
